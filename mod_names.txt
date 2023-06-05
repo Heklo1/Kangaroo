@@ -3,11 +3,11 @@ Alsa7r Client
 Aristois Client
 Aristois Client
 Aristois Client
-Authority
-Azurya
-Bape 2.49
-Bape 2.50
-British v1
+Authority Client
+Azurya Client
+Bape Client 2.49
+Bape Client 2.50
+British Client v1
 CPSMod Reach
 CPSMod Reach
 Crqzie Client

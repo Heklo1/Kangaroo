@@ -211,6 +211,10 @@ DirectionHUD Cheat
 DirectionHUD Cheat
 DirectionHUD Cheat
 DirectionHUD Cheat
+Doomsday Injection Client
+Doomsday Injection Client
+Doomsday Injection Client
+Doomsday Injection Client
 Drek Injection Client
 Drek Injection Client
 Drek Injection Client

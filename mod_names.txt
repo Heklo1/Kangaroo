@@ -14,14 +14,15 @@ Crqzie Client
 Crqzie Client
 Cyanide Client
 DirectionHUD Cheat
-ExtendedReach v1.1
+Doomsday Client
+ExtendedReach Client v1.1
 Framed Client
 Framed Client
 Friends Client
 Friends Client
 Friends Client
 Fusk Client
-GhostSense b3
+GhostSense Client b3
 God Client
 Gucci Client
 Gucci Client
@@ -36,6 +37,7 @@ Lynch Lite Client
 Lyrica Client v1.0
 Mcrefillez Client
 Merge Client
+Meteor Client 0.5.2
 Misplace Client
 Misplace Client
 BCZ Misplace Client

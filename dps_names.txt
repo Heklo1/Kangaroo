@@ -82,6 +82,8 @@ Encephalon Client
 Encephalon Client
 Encephalon Client
 Entropy Client
+Entropy Client
+Entropy Client
 Epic Clicker
 Epic Client
 Eternal AimAssist
@@ -105,6 +107,9 @@ Generic Clicker
 Generic Clicker
 Generic Clicker
 Generic Clicker
+Memory Hacking Tool
+Memory Hacking Tool
+JClicker
 Generic Clicker
 Generic Clicker
 Generic Clicker
@@ -168,6 +173,7 @@ Generic Clicker
 Generic Clicker
 Generic Clicker
 Generic Clicker
+Memory Hacking Tool
 Generic Clicker
 Generic Clicker
 Generic Clicker
@@ -182,6 +188,7 @@ Generic Clicker
 Generic Clicker
 Generic Clicker
 Generic Clicker
+Memory Hacking Tool
 Generic Clicker
 Generic Clicker
 Generic Clicker
@@ -291,32 +298,7 @@ Generic Clicker
 Generic Clicker
 Generic Clicker
 Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
-Generic Clicker
+Memory Hacking Tool
 Generic Clicker
 Generic Clicker
 Generic Clicker
@@ -421,6 +403,11 @@ Glock Clicker Cracked
 Glock Clicker Cracked
 Glock Clicker Cracked
 Glock Clicker
+Glock Clicker
+Glock Clicker
+Glock Clicker
+Glock Clicker
+Glock Clicker
 Glock Client
 Goon Clicker
 Granada Clicker
@@ -435,6 +422,7 @@ Hermotet Client v0.4
 Hermotet Client v0.5
 Hidan Clicker
 Horion Injector
+Hus Client
 Hydrogen Client
 Hyper Client
 Ice Clicker
@@ -443,6 +431,8 @@ Icetea Client
 Icetea Patcher
 Icetea/Iridium Client
 Igi3k Client
+Indigo Clicker
+Indigo Clicker
 Indigo Client Cracked
 Indigo Client Cracked
 Indigo Client
@@ -451,6 +441,7 @@ Injector Client
 Iridium Clicker Cracked
 Iridium Clicker
 Iridium Client Cracked
+Iris Anti-SS Tool
 Isolation Clicker
 Isolation Clicker
 Itami Client v1.2
@@ -472,6 +463,8 @@ Josh Clicker
 Josh Clicker
 Katana Anti-SS Tool v2.1
 Kieta Client Lite
+Koid Clicker
+Koid Clicker
 Koid Client
 Koid Client
 Koid Client
@@ -521,6 +514,9 @@ Mango Client v2.0
 Mango Client
 Manthe Clicker
 Manthe Clicker
+Manthe Clicker
+Manthe Clicker
+Manthe Clicker
 Mars Clicker v2
 Mars Clicker
 Martian Clicker b8
@@ -531,6 +527,7 @@ Melt Client
 Melt Client
 Meth Clicker
 Meth Clicker
+Meth Clicker
 Microsoft Office Clicker
 Mind Client
 Mithril Client
@@ -538,17 +535,23 @@ Monkey Clicker
 Monkey Clicker
 Monkey Patcher
 Mouse_Event Clicker
+MP3 Player Clicker
 MrCreeper2010 Clicker
 Mr_Krlt Clicker
+Murgee Clicker
+Murgee Clicker
 Murphy Client
 Mye Clicker
 MyeG Clicker
+N0LE Clicker
 NACL-32 Clicker
 Nano Clicker
 Nebula Clicker
 Nebula Client
 Nig Clicker
+NKDA Autoclicker
 Notepad Clicker
+OBS Clicker
 OBS Studio Clicker
 OP Autoclicker
 Obscure Client
@@ -620,6 +623,9 @@ Taca Clicker
 Tap Client Cracked
 Tap Client
 Tap Client
+Tap Client
+Tap Client
+Tap Client
 TheFastestMouseClicker
 Thoiry Client
 Twirled Macro Switch
@@ -652,6 +658,7 @@ Wannacry Client
 WhatsApp Anti-SS Tool
 Whiteout Client Cracked
 Whiteout Client Cracked
+Whiteout Client
 Whiteout Client
 Wolf Client
 Xenon Client

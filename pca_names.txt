@@ -20,6 +20,7 @@ Cucklord Client
 Demon Client
 Deniability Clicker
 Dope Client
+Dope Dll Injector
 Downing Bhop
 Dream Client
 Drip Client Lite

@@ -74,4 +74,5 @@ Vape Mod v3
 Vea Client
 Wet Noodle Client
 Wombo Client
+Wurst Client
 Zuiy Client

@@ -7,6 +7,7 @@ Authority Client
 Azurya Client
 Bape Client 2.49
 Bape Client 2.50
+Bleach Client
 British Client v1
 CPSMod Reach
 CPSMod Reach
@@ -49,14 +50,16 @@ Onyc Client
 Pepe Client v2.3
 ProMcHacks Client
 Putin Client
-Raven b+ Client
-Raven b+ Client
-Raven b+ Client
-Raven b1 Client
-Raven b1 Client
-Raven b2 Client
-Raven b3# Client
-Raven b3 Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
+Raven Client
 Sativa v10 Client
 Sazuke Reach Mod
 Scooby Client v0.5
@@ -64,6 +67,7 @@ Skilled Client v2.1
 Skilled Client v2
 Skilled Client v3
 Sumo Cheat
+Syracruze Client
 Tbsc Client v2.4.0
 TSGLuke Aimbot Mod
 TSGLuke AntiKB Mod

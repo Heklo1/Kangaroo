@@ -2,6 +2,7 @@ Apollo Clicker Lite
 Apre3ndi5 Clicker
 AutoMemer Clicker
 Axenta Clicker
+Axenta Clicker
 B1scoito Clicker
 Beaner Clicker
 Beatso Clicker v1.1.0
@@ -36,6 +37,7 @@ Generic Cheat
 Glock Clicker v2.0
 Goon Clicker
 Grape Clicker
+Hakuna Matata Client
 Heaven Client b2
 Icetea Client
 Indigo Client

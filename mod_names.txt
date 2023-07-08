@@ -31,6 +31,8 @@ Gucci Client
 Hillary Rodham Client
 Huume Client
 Hydrogen Client
+Inertia Client
+Inertia Client
 KeystrokesMod Reach
 KeystrokesMod Reach
 LiquidBounce Client

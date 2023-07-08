@@ -44,6 +44,8 @@ Aristhena Client
 Aristois Client
 Aristois Client
 Aristois Mod Client
+Aristois Client
+Aristois Client
 Aristois Version Client
 Asparagus Client
 Asparagus Client
@@ -194,13 +196,12 @@ Cyanide Client
 Cyanide Client
 Cyanide Client
 Dank Client
-DarkstormAPI
+Darkstorm GUI (Not always a cheat)
 Def Client
 Def Client
 Def Client
 Def Client
 Delix Obfuscation
-Demon Injection Client
 Demon Injection Client
 Demon Injection Client
 Demon Injection Client
@@ -326,6 +327,18 @@ Fusk Mod Client
 Fusk Mod Client
 Fusk Mod Client
 Garkolym Client
+Generic Baritone Usage
+Generic Baritone Usage
+Generic Baritone Usage
+Generic Baritone Usage
+Generic Baritone Usage
+Generic Cheat Packages
+Generic Cheat Packages
+Generic Cheat Packages
+Generic Cheat Packages
+Generic Cheat Packages
+Generic Cheat Packages
+Generic Cheat Packages
 Generic Cheat Packages
 Generic Cheat Packages
 Generic Cheat Packages
@@ -527,6 +540,10 @@ Incognito Injection Client
 Incognito Injection Client
 Incognito Injection Client
 Indigo Client
+Inertia Client
+Inertia Client
+Inertia Client
+Inertia Client
 Integra Mod Client
 Integra Mod Client
 Integra Mod Client

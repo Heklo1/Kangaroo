@@ -956,6 +956,7 @@ Skuuunksle100 Client
 Skyfall Injection Client
 Slicker Clicker
 Slinky Client
+Slinky Client
 Small Client
 Small Client
 Smoke Client

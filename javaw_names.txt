@@ -955,6 +955,7 @@ Skuuunksle100 Client
 Skuuunksle100 Client
 Skyfall Injection Client
 Slicker Clicker
+Slinky Client
 Small Client
 Small Client
 Smoke Client
@@ -1064,8 +1065,6 @@ Sumo Client
 Sumo Client
 Supreme Client
 Suspicious String
-Suspicious Strings
-Suspicious Strings
 Suspicious Strings
 Suspicious Strings
 Suspicious Strings

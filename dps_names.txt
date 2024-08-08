@@ -44,6 +44,7 @@ Choppa Clicker
 Chronic Client
 ClickyGone Window Hider
 Client Loader
+Cmd Clicker
 Cocas Clicker
 Cr1sPvP Clicker
 Cracked Vape Launcher
@@ -75,6 +76,9 @@ Drip Client Cracked
 Drip Client Lite
 Drip Client
 Drip X Client
+Dusk Clicker
+Dusk Clicker
+Dusk Clicker
 Dusk Clicker
 Eclipse Client
 Eclipse Client
@@ -460,6 +464,7 @@ Itori Client
 Itori Client
 Itori Client
 Itori Client
+Ixzen Reach Client
 Java Clicker
 Josh Clicker
 Josh Clicker
@@ -493,6 +498,7 @@ Lethal Skid Clicker
 Lithium Client
 Lithium Client
 Lobo Clicker
+Loop Clicker
 Low Level Cheat
 Lucario Clicker
 Lufzys Clicke
@@ -585,6 +591,8 @@ Rip Clicker Cracked
 Rs Clicker
 RuntimeBroker Clicker
 SS Fucker v2
+Sapphire Lite
+Sapphire Lite
 Seppuku Clicker v1.2
 Seppuku Clicker v1.3
 Shiba Clicker
@@ -605,6 +613,7 @@ Spotify Clicker
 Spotify Clicker
 Sprite Client
 SteamSetup Clicker
+Storm Clicker
 Strafe Client
 Strike Cheat
 String Cleaner
@@ -630,6 +639,7 @@ Tap Client
 Tap Client
 TheFastestMouseClicker
 Thoiry Client
+Tuke
 Twirled Macro Switch
 Two Clicker
 Unicorn Clicker

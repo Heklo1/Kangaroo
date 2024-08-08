@@ -11,6 +11,7 @@ Bleach Client
 British Client v1
 CPSMod Reach
 CPSMod Reach
+CrossSine B39.1
 Crqzie Client
 Crqzie Client
 Cyanide Client
@@ -42,6 +43,7 @@ Lyrica Client v1.0
 Mcrefillez Client
 Merge Client
 Meteor Client 0.5.2
+Meteor Client Fabric
 Misplace Client
 Misplace Client
 BCZ Misplace Client
@@ -62,6 +64,7 @@ Raven Client
 Raven Client
 Raven Client
 Raven Client
+Rise Client
 Sativa v10 Client
 Sazuke Reach Mod
 Scooby Client v0.5
@@ -77,6 +80,7 @@ TSGLuke DoubleClicker Mod
 TSGLuke Reach Mod
 Vape Mod v2.49
 Vape Mod v3
+Vape Mod v4.06
 Vea Client
 Wet Noodle Client
 Wombo Client
